@@ -1,6 +1,6 @@
 # Sorting Visualization
 
-Inspired by Clément Mihailescu's sorting visualisation [project](https://github.com/clementmihailescu/Sorting-Visualizer), this is a much simpler version (just using basic HTML and JavaScript) of the same with an added feature of controlling the speed of the animation. Access the github page [here](https://satyamx.github.io/vizsort/).
+Inspired by Clément Mihailescu's sorting visualisation [project](https://github.com/clementmihailescu/Sorting-Visualizer), this is a much simpler version (just using basic HTML and JavaScript) of the same with an added feature of controlling the speed of the animation.<br/> Access the github page [here](https://satyamx.github.io/vizsort/).
 
 ### How to use?
 
