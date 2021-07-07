@@ -17,7 +17,7 @@ just do
 - Quick Sort
 - Merge Sort
 
-### Screenshots
+<!-- ### Screenshots -->
 
 ### To-Do
 
